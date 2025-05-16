@@ -1,1 +1,1 @@
-# local-remote-mcp-server-developer-connections
+# remote-mcp-api-managed-connections
